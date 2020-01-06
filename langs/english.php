@@ -2,6 +2,12 @@
 function lang($txt){
     static $lang = array(
     // home page
+    'HeiballaAbdellahi' => 'Heiballa Abdellahi',
+    'Introduction' => 'Introduction',
+    'aboutme' => 'Full Stack Developer, Researcher, Entrepreneur, Story Teller, Writer, Artist & Graphic Designer',
+    'int1' => 'I am a full stack web developer from Mauritania i work with both front and back ends.',
+    'int2' => 'I love the internet, technology, and building beautiful things.',
+    'sayhi' => 'Say hi to me on these social networks:',
     'html_dir' => 'ltr',
     'homeLinks' => 'left',
     'sponsored_align' => 'left',
@@ -126,6 +132,7 @@ function lang($txt){
     'adminOptions' => 'Admin options',
     'dashboard' => 'Dashboard',
     'terms' => 'Terms',
+    'aboutMe' => 'About Me',
     'privacyPolicy' => 'Privacy policy',
     'Report_A_Problem' => 'Report a problem',
     'logout' => 'Logout',

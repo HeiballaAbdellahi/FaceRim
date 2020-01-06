@@ -168,6 +168,7 @@ if (isset($_POST['submitR'])) {
       this.style.height = (this.scrollHeight) + 'px';
     });
 </script>
+<?php include("../includes/footer.php");?>
 <?php include "../includes/endJScodes.php"; ?>
 </body>
 </html>

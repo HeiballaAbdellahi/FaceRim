@@ -36,6 +36,7 @@ include_once $path."langs/set_lang.php";
         <a href="#" class="login_signup_navbarLinks"><? echo lang('help'); ?></a>
         <a href="#" class="login_signup_navbarLinks"><? echo lang('terms'); ?></a>
         <a href="#" class="login_signup_navbarLinks"><? echo lang('privacyPolicy'); ?></a>
+        <a href="aboutMe" class="login_signup_navbarLinks"><? echo lang('aboutMe'); ?></a>
         <div style="float: <? echo lang('float2'); ?>;">
             <a href="login" class="login_signup_btn1"><? echo lang('login'); ?></a>
             <a href="signup" class="login_signup_btn2"><? echo lang('signup'); ?></a>
@@ -109,5 +110,6 @@ $(".login_signup_textfield").keypress( function (e) {
     }
 });
 </script>
+<?php include("includes/footer.php");?>
     </body>
 </html>

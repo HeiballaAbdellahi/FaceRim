@@ -365,6 +365,7 @@ if (isset($_POST['verifyBadgeBtn'])) {
     </div>
 </div>
 </div>
+<?php include("../includes/footer.php");?>
 <?php include "../includes/endJScodes.php"; ?>
 </body>
 </html>

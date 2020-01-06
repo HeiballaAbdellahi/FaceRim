@@ -22,12 +22,11 @@ if (is_dir("imgs/")) {
 ?>
 <html dir="<?php echo lang('html_dir'); ?>">
 <head>
-    <title><?php echo $row_username; ?> | Wallstant</title>
+    <title><?php echo $row_username; ?> | FaceRIM</title>
     <meta charset="UTF-8">
     <meta name="description" content="<?php echo $row_bio; ?>">
-    <meta name="keywords" content="social network,social media,Wallstant,meet,free platform">
-    <meta name="author" content="Heiballa Abdellahi">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="social network,social media,FaceRIM,meet,free platform">
+    <meta name="author" content="Heiballa Abdellahi">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include "../includes/head_imports_main.php";?>
     </script>
     <style type="text/css">

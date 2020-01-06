@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6106cc61-73d3-457a-b558-de35f0b9dcde" name="Default Changelist" comment="" />
+    <list default="true" id="6106cc61-73d3-457a-b558-de35f0b9dcde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aboutMe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_database/wallstant.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashtag/hashtag.php" beforeDir="false" afterPath="$PROJECT_DIR$/hashtag/hashtag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/main_icons/pc_main.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/main_icons/pc_main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langs/arabic.php" beforeDir="false" afterPath="$PROJECT_DIR$/langs/arabic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langs/english.php" beforeDir="false" afterPath="$PROJECT_DIR$/langs/english.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messages/message.php" beforeDir="false" afterPath="$PROJECT_DIR$/messages/message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.php" beforeDir="false" afterPath="$PROJECT_DIR$/notifications.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toacpnlp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/toacpnlp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toacpnlp/sbox_r.php" beforeDir="false" afterPath="$PROJECT_DIR$/toacpnlp/sbox_r.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toacpnlp/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/toacpnlp/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/u/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/u/profile.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VOsErdhEhLyHzeixrjwfOvFQys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +65,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577135366084</updated>
       <workItem from="1577135376646" duration="1474000" />
-      <workItem from="1577137756755" duration="7961000" />
+      <workItem from="1577137756755" duration="9239000" />
+      <workItem from="1577682009320" duration="586000" />
+      <workItem from="1577740680778" duration="26000" />
+      <workItem from="1578060324062" duration="16543000" />
+      <workItem from="1578168040550" duration="2755000" />
+      <workItem from="1578269486552" duration="369000" />
     </task>
     <servers />
   </component>
@@ -49,13 +78,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1577206213031">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577206213031" />
     <state x="474" y="257" width="356" height="166" key="Github.CreateGistDialog" timestamp="1577204759422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="474" y="257" width="356" height="166" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1577204759422" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577138201950">
+    <state x="0" y="0" width="607" height="680" key="find.popup" timestamp="1578190184444">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577138201950" />
+    <state x="0" y="0" width="607" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1578190184444" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1578079032003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578079032003" />
   </component>
 </project>

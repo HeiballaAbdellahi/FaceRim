@@ -36,6 +36,7 @@ include_once $path."langs/set_lang.php";
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('help'); ?></a>
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('terms'); ?></a>
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('privacyPolicy'); ?></a>
+                <a href="aboutMe" class="login_signup_navbarLinks"><? echo lang('aboutMe'); ?></a>
                 <div style="float: <? echo lang('float2'); ?>;">
                     <a href="login" class="login_signup_btn1"><? echo lang('login'); ?></a>
                     <a href="signup" class="login_signup_btn2"><? echo lang('signup'); ?></a>
@@ -55,7 +56,7 @@ include_once $path."langs/set_lang.php";
                     <p id="login_wait" style="margin: 0px;"></p>
                 </div>
                 <div style="width: 100%;text-align: center;">
-                    <img src="imgs/main_icons/pc_main.png" alt="Wallstant" style="width: 300px;" />
+                    <img src="imgs/main_icons/pc_main.png" alt="FaceRIM" style="width: 300px;" />
                 </div>
             </div>
         </div>
@@ -99,5 +100,6 @@ $(".login_signup_textfield").keypress( function (e) {
     }
 });
 </script>
+<?php include("includes/footer.php");?>
 </body>
 </html>

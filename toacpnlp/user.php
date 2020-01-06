@@ -303,6 +303,7 @@ if (isset($_POST['rAccBtn'])) {
     </div>
 </div>
 </div>
+<?php include("../includes/footer.php");?>
 <?php include "../includes/endJScodes.php"; ?>
 </body>
 </html>

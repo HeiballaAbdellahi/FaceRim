@@ -320,6 +320,7 @@ $("#trPosts").show();
 $("#trPages").hide();
 });
 </script>
+<?php include("includes/footer.php");?>
 <?php include "includes/endJScodes.php"; ?>
 </body>
 </html>

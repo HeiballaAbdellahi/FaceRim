@@ -2,6 +2,12 @@
 function lang($txt){
     static $lang = array(
     // home page
+    'HeiballaAbdellahi' => 'عبد الله ابن حيبالله',
+    'Introduction' => 'تعريف',
+    'aboutme' => 'مبرمج ، باحث ، رائد أعمال ، راوي قصص ، كاتب ، فنان ومصمم جرافيك',
+    'int1' => 'أنا مطور ويب من موريتانيا أعمل على كلا الجانبين الأمامي والخلفي.',
+    'int2' => 'أحب الإنترنت والتكنولوجيا وبناء الأشياء الجميلة.',
+    'sayhi' => 'قل مرحباً لي على هذه الشبكات الاجتماعية:',
     'html_dir' => 'rtl',
     'homeLinks' => 'right',
     'sponsored_align' => 'right',
@@ -134,6 +140,7 @@ function lang($txt){
     'posts' => 'منشورات',
     'pages' => 'صفحات',
     'reactions' => 'تفاعل',
+    'aboutMe' => 'عني',
     'by' => 'بواسطة',
     'please_wait' => 'إنتظر ..',
     'favourite_pages' => 'الصفحات المفضلة',
